@@ -11,7 +11,7 @@ This is a simple WebGL application that allows you to walk around a single room 
 
 ## Dependencies
 
-- Python (v3.x recommended)
+- [Python 3](https://www.python.org/downloads/)
 - WebGL-capable web browser (Chrome, Firefox, Safari, Edge, etc.)
 
 ## Files
@@ -31,11 +31,11 @@ This is a simple WebGL application that allows you to walk around a single room 
 
 This application was created using the following resources:
 
-- Three.js (https://threejs.org/)
-- OrbitControls.js (https://threejs.org/docs/#examples/en/controls/OrbitControls)
-- PointerLockControls.js (https://threejs.org/docs/#examples/en/controls/PointerLockControls)
-- OBJLoader.js (https://threejs.org/docs/#examples/en/loaders/OBJLoader)
-- MTLLoader.js (https://threejs.org/docs/#examples/en/loaders/MTLLoader)
-- Beach texture (https://www.pexels.com/photo/brown-sand-under-clear-blue-sky-210230/)
-- Sky texture (https://www.pexels.com/photo/white-and-blue-clouds-160836/)
-- Simple Work Room 3D model by 3D LT (https://www.turbosquid.com/3d-models/simple-work-room-3d-1778232)
+- [Three.js](https://threejs.org/)
+- [OrbitControls.js](https://threejs.org/docs/#examples/en/controls/OrbitControls)
+- [PointerLockControls.js](https://threejs.org/docs/#examples/en/controls/PointerLockControls)
+- [OBJLoader.js](https://threejs.org/docs/#examples/en/loaders/OBJLoader)
+- [MTLLoader.js](https://threejs.org/docs/#examples/en/loaders/MTLLoader)
+- [Beach texture](https://www.pexels.com/photo/brown-sand-under-clear-blue-sky-210230/)
+- [Sky texture](https://www.pexels.com/photo/white-and-blue-clouds-160836/)
+- [Simple Work Room 3D model by 3D LT](https://www.turbosquid.com/3d-models/simple-work-room-3d-1778232)
